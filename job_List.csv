@@ -1,0 +1,11 @@
+company,exp,start,end,color,yaxis
+CenturyLink,Forecast Analyst,07/01/17,01/25/18,#125624,0.3
+CenturyLink,Data Analyst/Forecaster,08/01/16,07/01/17,#04ec11,0.3
+Self-employeed,Independent Contractor,05/01/16,08/01/16,#f8ee6d,0.3
+Franklin Pierce Univerisity,IT technician,09/01/14,05/01/15,#ef0b06,1.5
+Franklin Pierce Univerisity,Data Analyst,04/01/14,09/01/14,#c50255,1.5
+Franklin Pierce Univerisity,Graduate Assistantship,05/01/15,05/01/16,#ef6e06,0.3
+Franklin Pierce Univerisity,Internship,02/01/15,05/01/15,#ef9106,2.1
+Franklin Pierce Univerisity,M.B.A: Healthcare Administartion,09/01/15,05/01/17,#3225a2,0.9
+Franklin Pierce Univerisity,B.A.: Mathematics,09/01/12,05/01/15,#040dec,0.9
+Franklin Pierce Univerisity,B.S.: Biology,09/01/12,05/01/15,#02aec5,0.3
